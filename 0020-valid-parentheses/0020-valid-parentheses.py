@@ -6,7 +6,6 @@ class Solution:
             if c in closeToopen:
                 if stack and stack[-1]==closeToopen[c]:
                     stack.pop()
-                    return True
                 else:
                     return False
             else:
