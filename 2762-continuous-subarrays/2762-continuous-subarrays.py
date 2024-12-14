@@ -2,14 +2,26 @@ class Solution:
     def continuousSubarrays(self, nums: List[int]) -> int:
         count = 0
         n = len(nums)
-        
-        for start in range(n):
-            current_min = current_max = nums[start]
-            for end in range(start, n):
-                current_min = min(current_min, nums[end])
-                current_max = max(current_max, nums[end])
-                if current_max - current_min <= 2:
-                    count += 1
-                else:
-                    break
+        left = 0
+        min_deque = deque()
+        max_deque = deque()
+
+        for right in range(n):
+            while min_deque and nums[min_deque[-1]] >= nums[right]:
+                min_deque.pop()
+            min_deque.append(right)
+
+            while max_deque and nums[max_deque[-1]] <= nums[right]:
+                max_deque.pop()
+            max_deque.append(right)
+
+            while nums[max_deque[0]] - nums[min_deque[0]] > 2:
+                if min_deque[0] == left:
+                    min_deque.popleft()
+                if max_deque[0] == left:
+                    max_deque.popleft()
+                left += 1
+
+            count += right - left + 1
+
         return count
