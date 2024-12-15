@@ -1,13 +1,9 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        def compare(x, y):
-            if x + y > y + x:
-                return -1
-            elif x + y < y + x:
-                return 1
-            else:
-                return 0
-        nums = list(map(str, nums))
-        nums.sort(key=cmp_to_key(compare))
-        result = ''.join(nums)
-        return '0' if result[0] == '0' else result
+        nums =list(map(str,nums))
+        for i in range(len(nums)):
+            for j in range(0,len(nums)-i-1):
+                if nums[j] + nums[j+1] < nums[j+1] +nums[j]:
+                    nums[j] , nums[j+1] = nums[j+1] ,nums[j]
+        
+        return str(int(''.join(nums)))
