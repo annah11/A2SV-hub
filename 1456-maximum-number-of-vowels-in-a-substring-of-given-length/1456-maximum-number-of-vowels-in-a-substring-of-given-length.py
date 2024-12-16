@@ -7,6 +7,7 @@ class Solution:
         for i in range(k):
             if s[i] in vowels:
                 count +=1
+            max_ =max(max_,count)
         for i in range(k,n):
             if s[i] in vowels:
                 count +=1
