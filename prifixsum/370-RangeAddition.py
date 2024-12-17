@@ -3,14 +3,7 @@ import sys
 input = sys.stdin.read
 
 def getModifiedArray(length, updates):
-    """
-    Modify an array of given length based on a list of updates.
-    
-    :param length: int - The size of the array.
-    :param updates: List of [l, r, c] where c is added to the range [l, r].
-    :return: List[int] - The modified array after all updates.
-    """
-    # Initialize a difference array
+
     d = [0] * length
     
     # Apply range updates
