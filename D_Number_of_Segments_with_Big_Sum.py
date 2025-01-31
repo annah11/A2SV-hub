@@ -1,5 +1,6 @@
 n,s = map(int, input().split())
 nums = list(map(int, input().split()))
+
 def minnum(n, s, nums):
     l = 0
     _sum = 0

@@ -6,7 +6,6 @@ def getModifiedArray(length, updates):
 
     d = [0] * length
     
-    # Apply range updates
     for l, r, c in updates:
         d[l] += c
         if r + 1 < length:
