@@ -1,0 +1,12 @@
+t = int(input())
+for _ in range(t):
+    b = input()
+
+
+    a = [] 
+    for index in range(0, len(b), 2):
+        a.append(b[index])
+   
+    a.append(b[-1])
+    a = "".join(a)
+    print(a)

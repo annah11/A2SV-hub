@@ -1,0 +1,21 @@
+t = int(input())
+
+for _ in range(t):
+    N = int(input())
+    nums = list(map(int, input().split()))
+
+    left_occurrence = {}
+    found = False
+    
+    for i, n in enumerate(nums):
+        if n in left_occurrence:
+            if i - left_occurrence[n] >= 2:
+                found = True
+                break                
+        else:
+            left_occurrence[n] = i
+    
+    if found:
+        print("YES")
+    else:
+        print("NO")

@@ -1,0 +1,42 @@
+from sys import stdin
+
+
+def input(): return stdin.readline().strip()
+
+N = int(input())
+s = input()
+t = input()
+
+humming = 0
+mismatches = {}
+t_mismatches = {}
+s_mismatches = {}
+
+two = None
+one = None
+
+for i in range(N):
+    if s[i] != t[i]:
+        if not two:
+            if (t[i], s[i]) in mismatches:
+                two = (mismatches[(t[i], s[i])], i)
+            elif not one:
+                if s[i] in s_mismatches:
+                    one = (s_mismatches[s[i]], i)
+                elif t[i] in t_mismatches:
+                    one = (t_mismatches[t[i]], i)
+                t_mismatches[s[i]] = i
+                s_mismatches[t[i]] = i
+
+            mismatches[(s[i], t[i])] = i
+        humming += 1
+
+if two:
+    print(humming - 2)
+    print(two[0] + 1, two[1] + 1)
+elif one:
+    print(humming - 1)
+    print(one[0] + 1, one[1] + 1)
+else:
+    print(humming)
+    print(-1, -1)

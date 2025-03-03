@@ -1,0 +1,22 @@
+for _ in range(int(input())):
+    n = int(input())
+    lines = input()
+    values = []
+    totCount = 0
+    # getting the total counts of each person in current line
+    # and getting the maximized count of each persons by swapping the persons view direction
+    for i, line in enumerate(lines):
+        if line == 'L':
+            totCount += i
+            values.append(max(i, n - i - 1) - i)
+        else:
+            totCount += (n - i - 1)
+            values.append(max(i, n - i - 1) - (n - i - 1))
+    
+    # sort values in decreasing order to maximize the counts
+    values.sort(reverse=True)
+    for i in range(len(values)):
+        totCount += values[i]
+        values[i] = totCount
+    
+    print(*values)
