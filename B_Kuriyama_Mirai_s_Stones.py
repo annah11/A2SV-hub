@@ -15,4 +15,4 @@ for _ in range(m):
         result.append(_orignal[r] - _orignal[l-1])
     else:
         result.append(_sorted[r] - _sorted[l-1])
-print(*result, sep='\n')
+print(*result ,sep = "\n")
