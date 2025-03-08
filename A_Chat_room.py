@@ -1,15 +1,13 @@
 def chat():
     chatt= str(input())
-    cnt = set()
+    cnt = 0
     check = "hello"
-    for i in range(len(chatt)):
-        if chatt[i] == check[0]:
-            cnt.add(i)
-            check = check[1:]
-        if ccontestatt:
+    for i in chatt:
+        if i == check[cnt]:
+            cnt += 1
+        if cnt == 5:
             print("YES")
-            break
-        else:
-            print("NO")
-            break
+            return
+    print("NO")
+
 chat()

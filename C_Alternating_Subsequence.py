@@ -3,17 +3,15 @@ def max_alternating_sum():
     for _ in range(n):
         k = int(input())
         a = list(map(int, input().split()))
-        postive = 0
-        negative = 0
-        ans = []
-        cur_max = 0
-        maxx = 0
-        for i in range(k):
-            if a[i] > 0:
-                postive += a[i]
+        cur_max = a[0]
+        result = 0
+        for i in range(1,k):
+            if a[i] * a[i-1] > 0:
+                cur_max = max(cur_max, a[i])
             else:
-                negative += a[i]
+                result += cur_max
+                cur_max = a[i]
+        result += cur_max
+        print(result)
                 
-        
-        
 max_alternating_sum()
