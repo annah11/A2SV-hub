@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/annah11/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Simulation
 |  |
