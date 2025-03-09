@@ -21,6 +21,7 @@
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Sorting
 |  |
