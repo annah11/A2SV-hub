@@ -60,6 +60,7 @@
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -90,10 +91,12 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Math
 |  |
 | ------- |
