@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 ## Binary Search
@@ -127,4 +128,12 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
