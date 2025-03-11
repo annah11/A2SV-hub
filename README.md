@@ -61,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/annah11/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
@@ -124,5 +125,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
