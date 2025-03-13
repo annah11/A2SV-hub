@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -131,9 +132,11 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
