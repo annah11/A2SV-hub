@@ -12,12 +12,14 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/annah11/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annah11/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/annah11/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annah11/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -66,6 +68,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
+| [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -139,4 +142,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
