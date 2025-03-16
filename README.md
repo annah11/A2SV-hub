@@ -154,12 +154,14 @@
 | [0101-symmetric-tree](https://github.com/annah11/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/annah11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/annah11/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/annah11/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/annah11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0101-symmetric-tree](https://github.com/annah11/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/annah11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
