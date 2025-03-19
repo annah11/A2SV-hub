@@ -54,6 +54,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/annah11/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -165,6 +166,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/annah11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
@@ -178,6 +180,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annah11/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
