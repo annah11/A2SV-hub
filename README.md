@@ -223,5 +223,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/annah11/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/annah11/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
