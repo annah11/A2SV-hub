@@ -1,21 +1,19 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        def dfs(i: int):
-            if i == n:
-                nonlocal ans
-                ans += 1
-                return
-            for j in range(n):
-                a, b = i + j, i - j + n
-                if cols[j] or dg[a] or udg[b]:
+        res,col,pos,neg=0,set(),set(),set()
+        def backtracking(r):
+            if n==r:
+                nonlocal res
+                res+=1
+            for c in range(n):
+                if c in col or (c+r) in pos or (r-c) in neg:
                     continue
-                cols[j] = dg[a] = udg[b] = True
-                dfs(i + 1)
-                cols[j] = dg[a] = udg[b] = False
-
-        cols = [False] * 10
-        dg = [False] * 20
-        udg = [False] * 20
-        ans = 0
-        dfs(0)
-        return ans
+                col.add(c)
+                pos.add(c+r)
+                neg.add(r-c)
+                backtracking(r+1)
+                col.remove(c)
+                pos.remove(c+r)
+                neg.remove(r-c)
+        backtracking(0)
+        return res
