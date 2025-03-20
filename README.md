@@ -78,6 +78,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -138,11 +139,13 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
+| [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -229,4 +232,9 @@
 | ------- |
 | [0052-n-queens-ii](https://github.com/annah11/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/annah11/leetcode/tree/master/0077-combinations) |
+| [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
