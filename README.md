@@ -179,6 +179,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/annah11/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -194,6 +195,7 @@
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/annah11/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -211,6 +213,7 @@
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/annah11/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
