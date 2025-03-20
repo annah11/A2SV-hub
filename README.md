@@ -70,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/annah11/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -240,6 +241,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/annah11/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/annah11/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/annah11/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
