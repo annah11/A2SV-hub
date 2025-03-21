@@ -3,7 +3,7 @@ n = int(input())
 k = int(input())
 left =0
 _sum =0
-for r in range(n):
+for r in n:
     _sum += r
     while _sum > n:
         if _sum += r:

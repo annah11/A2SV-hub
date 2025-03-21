@@ -11,7 +11,6 @@ for i in range(n):
 ans = prefix[-1]  
 
 for i in range(n):
-    # odd
     profit = a[i] * b[i]
     
     l = i-1
@@ -25,7 +24,6 @@ for i in range(n):
         l -= 1
         r += 1
     
-    #even
     profit = 0
     l = i
     r = i + 1
