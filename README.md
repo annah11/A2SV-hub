@@ -75,6 +75,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annah11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/annah11/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/annah11/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/annah11/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/annah11/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/annah11/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/annah11/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
