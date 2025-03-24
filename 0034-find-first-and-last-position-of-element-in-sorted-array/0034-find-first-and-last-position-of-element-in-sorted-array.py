@@ -4,7 +4,7 @@ class Solution:
         right = self.binarySearch(nums, target, False)
         return [left, right]
 
-    def binarySearch(self, nums, target, leftBias: bool) -> int:
+    def binarySearch(self, nums, target, leftBias: bool):
         left, right = 0, len(nums) - 1
         i = -1
         while left <= right:
