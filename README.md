@@ -84,6 +84,7 @@
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
+| [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -147,6 +148,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annah11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/annah11/leetcode/tree/master/0069-sqrtx) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
+| [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
