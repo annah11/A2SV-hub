@@ -1,3 +1,4 @@
+n = int(input())
 def add_one(num):
 
     if (num >= 9):
@@ -7,7 +8,6 @@ def add_one(num):
     print(total)
 
     return add_one(total)
-
-
-# mynewtotal = add_one(0)
-# print(mynewtotal)
+mynewtotal = add_one(0)
+print(mynewtotal)
+add_one(n)
