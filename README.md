@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
+| [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
@@ -16,6 +17,7 @@
 | [0225-implement-stack-using-queues](https://github.com/annah11/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annah11/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
+| [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -48,6 +50,7 @@
 | [0394-decode-string](https://github.com/annah11/leetcode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
+| [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -165,6 +168,7 @@
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annah11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2690-house-robber-iv](https://github.com/annah11/leetcode/tree/master/2690-house-robber-iv) |
 ## Dynamic Programming
