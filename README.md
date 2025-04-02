@@ -57,6 +57,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/annah11/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@
 | [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
@@ -305,6 +308,7 @@
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annah11/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/annah11/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bitmask
