@@ -43,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1168-duplicate-zeros](https://github.com/annah11/leetcode/tree/master/1168-duplicate-zeros) |
@@ -161,6 +162,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -223,6 +225,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 ## Tree
 |  |
@@ -306,6 +309,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 | [1285-balance-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 ## Backtracking
@@ -348,4 +352,8 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/annah11/leetcode/tree/master/1325-path-with-maximum-probability) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
