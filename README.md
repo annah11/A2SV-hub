@@ -102,6 +102,7 @@
 | [0134-gas-station](https://github.com/annah11/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/annah11/leetcode/tree/master/0275-h-index-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annah11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annah11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
@@ -192,6 +193,7 @@
 | [0069-sqrtx](https://github.com/annah11/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/annah11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/annah11/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/annah11/leetcode/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
