@@ -1,0 +1,1 @@
+{"name":"Local: hennge","url":"/home/mati/leetcode/leetcode/hennge.py","tests":[{"id":1743922837750,"input":"2\n4\n3 -1 1 10\n5\n9 -5 -5 -10 10","output":"1\n11250"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mati/leetcode/leetcode/hennge.py","group":"local","local":true}
