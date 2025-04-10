@@ -285,6 +285,7 @@
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/annah11/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annah11/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -331,6 +332,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/annah11/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/annah11/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/annah11/leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -401,6 +403,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/annah11/leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/annah11/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
@@ -430,6 +433,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/annah11/leetcode/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Doubly-Linked List
 |  |
