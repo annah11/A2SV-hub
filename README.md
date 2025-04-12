@@ -9,6 +9,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annah11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
@@ -117,6 +118,7 @@
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
@@ -266,6 +268,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/annah11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -292,6 +295,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/annah11/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -340,6 +344,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/annah11/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/annah11/leetcode/tree/master/0871-keys-and-rooms) |
