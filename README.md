@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
+| [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1168-duplicate-zeros](https://github.com/annah11/leetcode/tree/master/1168-duplicate-zeros) |
@@ -115,6 +116,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/annah11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annah11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
@@ -184,6 +186,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -211,6 +214,7 @@
 | [0275-h-index-ii](https://github.com/annah11/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/annah11/leetcode/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
