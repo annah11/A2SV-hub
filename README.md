@@ -130,6 +130,7 @@
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annah11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/annah11/leetcode/tree/master/1168-duplicate-zeros) |
@@ -368,6 +369,7 @@
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/annah11/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/annah11/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -420,6 +422,7 @@
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
+| [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Game Theory
 |  |
