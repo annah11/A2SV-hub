@@ -18,6 +18,7 @@
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [1905-design-authentication-manager](https://github.com/annah11/leetcode/tree/master/1905-design-authentication-manager) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Design
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -141,6 +143,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/annah11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/annah11/leetcode/tree/master/2690-house-robber-iv) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
