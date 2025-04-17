@@ -137,6 +137,7 @@
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annah11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/annah11/leetcode/tree/master/1168-duplicate-zeros) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/annah11/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -379,6 +380,7 @@
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/annah11/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/annah11/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -434,6 +436,7 @@
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Game Theory
 |  |
