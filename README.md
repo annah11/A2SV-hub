@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/annah11/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/annah11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/annah11/leetcode/tree/master/0394-decode-string) |
@@ -106,6 +107,7 @@
 | [0051-n-queens](https://github.com/annah11/leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/annah11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
@@ -298,6 +300,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/annah11/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/annah11/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/annah11/leetcode/tree/master/0101-symmetric-tree) |
@@ -415,6 +418,7 @@
 | [0052-n-queens-ii](https://github.com/annah11/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/annah11/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/annah11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -431,6 +435,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/annah11/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
