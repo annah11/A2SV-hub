@@ -131,6 +131,7 @@
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
+| [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
@@ -327,6 +328,7 @@
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/annah11/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/annah11/leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -471,6 +473,7 @@
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/annah11/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/annah11/leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
@@ -507,6 +510,7 @@
 | [0207-course-schedule](https://github.com/annah11/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/annah11/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/annah11/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Doubly-Linked List
 |  |
