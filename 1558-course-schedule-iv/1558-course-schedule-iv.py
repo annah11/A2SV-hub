@@ -1,11 +1,27 @@
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
-        reach=[[False] * numCourses for _ in range(numCourses)]
-        for pre, course in prerequisites:
-            reach[pre][course] = True
-        for k in range(numCourses):
-            for i in range(numCourses):
-                for j in range(numCourses):
-                    if reach[i][k] and reach [k][j]:
-                        reach[i][j] = True
-        return [ reach[u][v] for u,v in queries]
+        graph = defaultdict(list)
+        d = defaultdict(set)
+        ans = []
+        for u,v  in prerequisites:
+            graph[u].append(v)
+
+        print(graph)
+        visit = [False] * numCourses
+        def dfs(node):
+            if visit[node]:
+                return d[node]
+            visit[node] =True
+            for ne in graph[node]:
+                d[node].add(ne)
+                d[node] |= dfs(ne)
+            return d[node]
+        for i in range(numCourses):
+            dfs(i)
+        for u,v in queries:
+            ans.append(v in d[u])
+            
+        print(d)
+        return ans
+
+                
