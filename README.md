@@ -124,6 +124,7 @@
 | [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
+| [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
@@ -318,6 +319,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annah11/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/annah11/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/annah11/leetcode/tree/master/0684-redundant-connection) |
@@ -381,6 +383,7 @@
 | [0210-course-schedule-ii](https://github.com/annah11/leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/annah11/leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/annah11/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/annah11/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/annah11/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/annah11/leetcode/tree/master/0684-redundant-connection) |
@@ -449,6 +452,7 @@
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/annah11/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
