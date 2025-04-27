@@ -18,6 +18,7 @@
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [1905-design-authentication-manager](https://github.com/annah11/leetcode/tree/master/1905-design-authentication-manager) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Design
@@ -74,6 +75,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/annah11/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -150,6 +152,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/annah11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/annah11/leetcode/tree/master/2690-house-robber-iv) |
@@ -488,6 +491,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/annah11/leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/annah11/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/annah11/leetcode/tree/master/3189-find-champion-ii) |
 ## Shortest Path
@@ -520,6 +524,7 @@
 | [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/annah11/leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Doubly-Linked List
 |  |
 | ------- |
