@@ -10,6 +10,7 @@
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
@@ -73,6 +74,7 @@
 | [0093-restore-ip-addresses](https://github.com/annah11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/annah11/leetcode/tree/master/0394-decode-string) |
+| [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -138,6 +140,7 @@
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/annah11/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
@@ -223,6 +226,7 @@
 | [0295-find-median-from-data-stream](https://github.com/annah11/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -352,6 +356,7 @@
 | [0684-redundant-connection](https://github.com/annah11/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/annah11/leetcode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -420,6 +425,7 @@
 | [0684-redundant-connection](https://github.com/annah11/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/annah11/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/annah11/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -543,6 +549,7 @@
 | [0547-number-of-provinces](https://github.com/annah11/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/annah11/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
