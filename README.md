@@ -12,6 +12,7 @@
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -365,6 +366,7 @@
 | [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/annah11/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -522,6 +524,7 @@
 | [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/annah11/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/annah11/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -553,6 +556,7 @@
 | [0801-is-graph-bipartite](https://github.com/annah11/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/annah11/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2121-find-if-path-exists-in-graph](https://github.com/annah11/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
