@@ -125,6 +125,7 @@
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/annah11/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/annah11/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/annah11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/annah11/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/annah11/leetcode/tree/master/0338-counting-bits) |
