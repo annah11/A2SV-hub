@@ -275,6 +275,7 @@
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/annah11/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/annah11/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/annah11/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/annah11/leetcode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -286,6 +287,7 @@
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/annah11/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
