@@ -174,6 +174,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/annah11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/annah11/leetcode/tree/master/2690-house-robber-iv) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -249,6 +250,7 @@
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annah11/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search
 |  |
@@ -300,6 +302,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/annah11/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/annah11/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
