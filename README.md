@@ -166,6 +166,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/annah11/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/annah11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -395,6 +396,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/annah11/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/annah11/leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/annah11/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/annah11/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -460,6 +462,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/annah11/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/annah11/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/annah11/leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/annah11/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/annah11/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -524,6 +527,7 @@
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Game Theory
 |  |
@@ -582,6 +586,7 @@
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/annah11/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/annah11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/annah11/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
