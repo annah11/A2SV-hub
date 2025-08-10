@@ -183,6 +183,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/annah11/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3643-zero-array-transformation-ii](https://github.com/annah11/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/annah11/A2SV-hub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/annah11/A2SV-hub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -529,6 +531,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/annah11/A2SV-hub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Game Theory
 |  |
 | ------- |
