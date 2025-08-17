@@ -196,6 +196,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -255,6 +256,7 @@
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/annah11/leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
+| [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
@@ -292,6 +294,7 @@
 | [0338-counting-bits](https://github.com/annah11/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/annah11/leetcode/tree/master/0542-01-matrix) |
+| [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -628,4 +631,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
