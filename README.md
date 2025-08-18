@@ -143,6 +143,7 @@
 | [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/annah11/leetcode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
+| [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
@@ -256,6 +257,7 @@
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/annah11/leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
+| [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -513,6 +515,7 @@
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/annah11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
+| [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
