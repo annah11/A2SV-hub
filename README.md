@@ -190,6 +190,7 @@
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/annah11/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/annah11/A2SV-hub/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/annah11/A2SV-hub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-zero-array-transformation-ii](https://github.com/annah11/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/annah11/A2SV-hub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -557,6 +558,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/annah11/A2SV-hub/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/annah11/A2SV-hub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/annah11/A2SV-hub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Game Theory
@@ -653,4 +655,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/annah11/A2SV-hub/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
