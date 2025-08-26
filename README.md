@@ -112,6 +112,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/annah11/A2SV-hub/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -142,6 +143,7 @@
 | [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/annah11/A2SV-hub/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/annah11/leetcode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
@@ -551,6 +553,7 @@
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/annah11/A2SV-hub/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/annah11/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/annah11/leetcode/tree/master/0695-max-area-of-island) |
