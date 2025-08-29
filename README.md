@@ -282,6 +282,7 @@
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annah11/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/annah11/A2SV-hub/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Binary Search
 |  |
 | ------- |
