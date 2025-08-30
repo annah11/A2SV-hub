@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/annah11/A2SV-hub/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annah11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annah11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annah11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/annah11/A2SV-hub/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/annah11/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/annah11/leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/annah11/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -552,6 +554,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/annah11/A2SV-hub/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/annah11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
