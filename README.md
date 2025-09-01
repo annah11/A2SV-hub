@@ -184,6 +184,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1706-min-cost-to-connect-all-points](https://github.com/annah11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/annah11/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1917-maximum-average-pass-ratio](https://github.com/annah11/A2SV-hub/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -229,6 +230,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/annah11/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1917-maximum-average-pass-ratio](https://github.com/annah11/A2SV-hub/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/annah11/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
@@ -251,6 +253,7 @@
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/annah11/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1917-maximum-average-pass-ratio](https://github.com/annah11/A2SV-hub/tree/master/1917-maximum-average-pass-ratio) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
