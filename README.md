@@ -359,6 +359,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/annah11/A2SV-hub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/annah11/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -682,6 +683,7 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/annah11/A2SV-hub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -689,6 +691,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/annah11/A2SV-hub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/annah11/A2SV-hub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/annah11/A2SV-hub/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
