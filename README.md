@@ -309,6 +309,7 @@
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/annah11/A2SV-hub/tree/master/0372-super-pow) |
 | [0441-arranging-coins](https://github.com/annah11/leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
@@ -570,6 +571,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/annah11/leetcode/tree/master/0191-number-of-1-bits) |
+| [0372-super-pow](https://github.com/annah11/A2SV-hub/tree/master/0372-super-pow) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
