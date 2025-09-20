@@ -31,6 +31,7 @@
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/annah11/A2SV-hub/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/annah11/A2SV-hub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -46,6 +47,7 @@
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/annah11/A2SV-hub/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/annah11/A2SV-hub/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/annah11/A2SV-hub/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/annah11/A2SV-hub/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -266,6 +270,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2429-design-a-food-rating-system](https://github.com/annah11/A2SV-hub/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -350,6 +355,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/annah11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/annah11/leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/annah11/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
