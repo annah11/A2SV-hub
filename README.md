@@ -153,6 +153,7 @@
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/annah11/A2SV-hub/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/annah11/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/annah11/leetcode/tree/master/0136-single-number) |
@@ -364,6 +365,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/annah11/leetcode/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/annah11/A2SV-hub/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/annah11/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/annah11/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/annah11/leetcode/tree/master/0338-counting-bits) |
