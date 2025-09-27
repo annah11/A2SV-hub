@@ -182,6 +182,7 @@
 | [0733-flood-fill](https://github.com/annah11/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/annah11/A2SV-hub/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 | [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -326,6 +327,7 @@
 | [0441-arranging-coins](https://github.com/annah11/leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/annah11/A2SV-hub/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -759,6 +761,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/annah11/A2SV-hub/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/annah11/A2SV-hub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
