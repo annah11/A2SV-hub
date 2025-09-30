@@ -186,6 +186,7 @@
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 | [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -329,6 +330,7 @@
 | [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/annah11/A2SV-hub/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
+| [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
@@ -379,6 +381,7 @@
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/annah11/leetcode/tree/master/0542-01-matrix) |
 | [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
+| [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
@@ -649,6 +652,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/annah11/A2SV-hub/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
