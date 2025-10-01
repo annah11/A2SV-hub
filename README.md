@@ -139,6 +139,7 @@
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/annah11/A2SV-hub/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/annah11/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -339,6 +340,7 @@
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/annah11/A2SV-hub/tree/master/2432-number-of-zero-filled-subarrays) |
