@@ -321,6 +321,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/annah11/A2SV-hub/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/annah11/A2SV-hub/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/annah11/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
@@ -377,6 +378,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/annah11/leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/annah11/A2SV-hub/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/annah11/A2SV-hub/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/annah11/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -778,5 +780,6 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/annah11/A2SV-hub/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
