@@ -166,6 +166,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/annah11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/annah11/A2SV-hub/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/annah11/leetcode/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/annah11/leetcode/tree/master/0322-coin-change) |
@@ -392,6 +393,7 @@
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/annah11/A2SV-hub/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/annah11/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0221-maximal-square](https://github.com/annah11/A2SV-hub/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/annah11/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/annah11/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
@@ -650,6 +652,7 @@
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/annah11/A2SV-hub/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/annah11/A2SV-hub/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/annah11/A2SV-hub/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/annah11/leetcode/tree/master/0529-minesweeper) |
