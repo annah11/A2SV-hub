@@ -229,6 +229,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/annah11/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/annah11/A2SV-hub/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -362,6 +363,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/annah11/A2SV-hub/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -806,6 +808,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Memoization
