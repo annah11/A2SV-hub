@@ -20,6 +20,7 @@
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/annah11/A2SV-hub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [1905-design-authentication-manager](https://github.com/annah11/leetcode/tree/master/1905-design-authentication-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -64,6 +65,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/annah11/A2SV-hub/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -219,6 +221,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/annah11/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/annah11/A2SV-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1706-min-cost-to-connect-all-points](https://github.com/annah11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
