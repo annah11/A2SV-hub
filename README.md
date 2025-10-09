@@ -347,6 +347,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/annah11/A2SV-hub/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/annah11/A2SV-hub/tree/master/0372-super-pow) |
