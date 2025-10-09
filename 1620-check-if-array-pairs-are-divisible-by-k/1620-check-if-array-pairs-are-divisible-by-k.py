@@ -1,15 +1,13 @@
 class Solution:
     def canArrange(self, arr: List[int], k: int) -> bool:
-        freq = [0] * k
+        cnt = Counter()
         for i in arr:
-            rem = i% k
-            if rem < 0:
-                rem += k
-            freq[rem ] += 1
-
-        if freq[0] % 2 != 0:
-            return False
-        for i in range(1,(k//2)+1):
-            if freq[i] != freq[k-i]:
+            cnt[i % k] += 1
+        if 0 in cnt:
+            if cnt[0] % 2 != 0:
+                return False
+        del cnt[0]
+        for r in cnt:
+            if cnt[r] != cnt[k-r]:
                 return False
         return True
