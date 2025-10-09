@@ -360,6 +360,7 @@
 | [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
+| [1236-n-th-tribonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
@@ -421,6 +422,7 @@
 | [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -815,6 +817,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1236-n-th-tribonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/annah11/A2SV-hub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Geometry
 |  |
