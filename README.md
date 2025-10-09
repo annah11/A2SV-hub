@@ -170,6 +170,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/annah11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/annah11/A2SV-hub/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/annah11/leetcode/tree/master/0275-h-index-ii) |
@@ -344,6 +345,7 @@
 | [0062-unique-paths](https://github.com/annah11/A2SV-hub/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/annah11/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/annah11/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
@@ -794,6 +796,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/annah11/A2SV-hub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/annah11/A2SV-hub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -801,6 +804,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Memoization
