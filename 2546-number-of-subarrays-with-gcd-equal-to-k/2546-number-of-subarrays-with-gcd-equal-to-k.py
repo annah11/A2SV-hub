@@ -1,14 +1,17 @@
 class Solution:
     def subarrayGCD(self, nums: List[int], k: int) -> int:
         n = len(nums)
-        count = 0
-        
+        res = 0
         for i in range(n):
-            g = 0
-            for j in range(i, n):
-                g = gcd(g, nums[j])
-                if g == k:
-                    count += 1
-                elif g < k:
+            if nums[i]%k != 0:
+                continue
+            b= 0
+            for j in range(i,n):
+                if nums[j] %k != 0:
                     break
-        return count
+                b = gcd(nums[j],b)
+                if b == k:
+                    res+=1
+                if b< k:
+                    break
+        return res
