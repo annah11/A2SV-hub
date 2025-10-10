@@ -240,6 +240,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/annah11/A2SV-hub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/annah11/A2SV-hub/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/annah11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -368,6 +369,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/annah11/A2SV-hub/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/annah11/A2SV-hub/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annah11/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -812,6 +814,7 @@
 | [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/annah11/A2SV-hub/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Memoization
 |  |
