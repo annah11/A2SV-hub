@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/annah11/A2SV-hub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/annah11/A2SV-hub/tree/master/0037-sudoku-solver) |
+| [0208-implement-trie-prefix-tree](https://github.com/annah11/A2SV-hub/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/annah11/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/annah11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annah11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -39,6 +40,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/annah11/A2SV-hub/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/annah11/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annah11/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/annah11/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -98,6 +100,7 @@
 | [0022-generate-parentheses](https://github.com/annah11/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/annah11/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0208-implement-trie-prefix-tree](https://github.com/annah11/A2SV-hub/tree/master/0208-implement-trie-prefix-tree) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/annah11/leetcode/tree/master/0394-decode-string) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
@@ -846,4 +849,8 @@
 | [0062-unique-paths](https://github.com/annah11/A2SV-hub/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/annah11/A2SV-hub/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/annah11/A2SV-hub/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
