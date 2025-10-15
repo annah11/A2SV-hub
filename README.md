@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/annah11/A2SV-hub/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/annah11/A2SV-hub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/annah11/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/annah11/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/annah11/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -104,6 +105,7 @@
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/annah11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0208-implement-trie-prefix-tree](https://github.com/annah11/A2SV-hub/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/annah11/A2SV-hub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/annah11/leetcode/tree/master/0394-decode-string) |
 | [0677-map-sum-pairs](https://github.com/annah11/A2SV-hub/tree/master/0677-map-sum-pairs) |
@@ -539,6 +541,7 @@
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/annah11/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/annah11/leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/annah11/A2SV-hub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/annah11/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/annah11/A2SV-hub/tree/master/0417-pacific-atlantic-water-flow) |
@@ -861,6 +864,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/annah11/A2SV-hub/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/annah11/A2SV-hub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0677-map-sum-pairs](https://github.com/annah11/A2SV-hub/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
