@@ -392,6 +392,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/annah11/A2SV-hub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
