@@ -35,6 +35,7 @@
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/annah11/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/annah11/A2SV-hub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/annah11/A2SV-hub/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/annah11/A2SV-hub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/annah11/A2SV-hub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/annah11/A2SV-hub/tree/master/3797-design-spreadsheet) |
@@ -274,6 +275,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/annah11/A2SV-hub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/annah11/A2SV-hub/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/annah11/A2SV-hub/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/annah11/A2SV-hub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/annah11/A2SV-hub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/annah11/A2SV-hub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/annah11/A2SV-hub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -518,6 +520,7 @@
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1905-design-authentication-manager](https://github.com/annah11/leetcode/tree/master/1905-design-authentication-manager) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/annah11/A2SV-hub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
