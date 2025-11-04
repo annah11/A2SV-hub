@@ -250,6 +250,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/annah11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/annah11/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/annah11/A2SV-hub/tree/master/1917-maximum-average-pass-ratio) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -404,6 +405,7 @@
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/annah11/A2SV-hub/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/annah11/A2SV-hub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -498,6 +500,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/annah11/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/annah11/A2SV-hub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -718,6 +721,7 @@
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annah11/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -867,6 +871,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/annah11/A2SV-hub/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/annah11/A2SV-hub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/annah11/A2SV-hub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/annah11/A2SV-hub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -895,6 +900,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/annah11/A2SV-hub/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/annah11/A2SV-hub/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
