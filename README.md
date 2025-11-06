@@ -42,6 +42,7 @@
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/annah11/A2SV-hub/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/annah11/A2SV-hub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -298,6 +299,7 @@
 | [3797-design-spreadsheet](https://github.com/annah11/A2SV-hub/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/annah11/A2SV-hub/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/annah11/A2SV-hub/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/annah11/A2SV-hub/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 | [2429-design-a-food-rating-system](https://github.com/annah11/A2SV-hub/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -620,6 +624,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/annah11/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -689,6 +694,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/annah11/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -809,6 +815,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/annah11/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/annah11/leetcode/tree/master/3189-find-champion-ii) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -837,6 +844,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/annah11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/annah11/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
