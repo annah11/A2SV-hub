@@ -490,6 +490,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/annah11/A2SV-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/annah11/A2SV-hub/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/annah11/A2SV-hub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/annah11/A2SV-hub/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/annah11/A2SV-hub/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -511,6 +512,7 @@
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/annah11/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/annah11/A2SV-hub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/annah11/A2SV-hub/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -905,6 +907,7 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/annah11/A2SV-hub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/annah11/A2SV-hub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Geometry
 |  |
