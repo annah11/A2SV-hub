@@ -114,6 +114,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/annah11/A2SV-hub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/annah11/leetcode/tree/master/0394-decode-string) |
+| [0474-ones-and-zeroes](https://github.com/annah11/A2SV-hub/tree/master/0474-ones-and-zeroes) |
 | [0677-map-sum-pairs](https://github.com/annah11/A2SV-hub/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
@@ -206,6 +207,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/annah11/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annah11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
+| [0474-ones-and-zeroes](https://github.com/annah11/A2SV-hub/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
@@ -483,6 +485,7 @@
 | [0221-maximal-square](https://github.com/annah11/A2SV-hub/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/annah11/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/annah11/leetcode/tree/master/0338-counting-bits) |
+| [0474-ones-and-zeroes](https://github.com/annah11/A2SV-hub/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/annah11/A2SV-hub/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/annah11/leetcode/tree/master/0542-01-matrix) |
