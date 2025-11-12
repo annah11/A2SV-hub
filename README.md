@@ -279,6 +279,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/annah11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/annah11/leetcode/tree/master/2690-house-robber-iv) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/annah11/A2SV-hub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/annah11/A2SV-hub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/annah11/A2SV-hub/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -435,6 +436,7 @@
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/annah11/A2SV-hub/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/annah11/leetcode/tree/master/2621-find-xor-beauty-of-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/annah11/A2SV-hub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annah11/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/annah11/A2SV-hub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -912,6 +914,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/annah11/A2SV-hub/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/annah11/A2SV-hub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Memoization
 |  |
 | ------- |
