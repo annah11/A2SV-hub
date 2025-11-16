@@ -128,6 +128,7 @@
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/annah11/A2SV-hub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/annah11/A2SV-hub/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/annah11/A2SV-hub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/annah11/A2SV-hub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -432,6 +433,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/annah11/A2SV-hub/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/annah11/A2SV-hub/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/annah11/A2SV-hub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
