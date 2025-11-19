@@ -30,6 +30,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/annah11/A2SV-hub/tree/master/2429-design-a-food-rating-system) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/annah11/A2SV-hub/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -175,6 +176,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/annah11/A2SV-hub/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/annah11/A2SV-hub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/annah11/A2SV-hub/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -272,6 +274,7 @@
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/annah11/A2SV-hub/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/annah11/A2SV-hub/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -403,6 +406,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/annah11/A2SV-hub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/annah11/A2SV-hub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
