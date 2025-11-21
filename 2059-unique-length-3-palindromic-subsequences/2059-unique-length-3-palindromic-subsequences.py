@@ -1,21 +1,12 @@
 class Solution:
     def countPalindromicSubsequence(self, s: str) -> int:
-        n = len(s)
-        first = [-1] * 26
-        last = [-1] * 26
+        r=0
+        se=set(s)
+        for i in se:
+            j=s.find(i)
+            k=s.rfind(i)
+            if j<k:
+                r+=len(set(s[j+1:k]))
+        return r
 
-        for i, ch in enumerate(s):
-            c = ord(ch) - ord('a')
-            if first[c] == -1:
-                first[c] = i
-            last[c] = i
-
-        ans = 0
-        for c in range(26):
-            if first[c] != -1 and last[c] - first[c] > 1:
-                mask = 0
-                for i in range(first[c] + 1, last[c]):
-                    mask |= 1 << (ord(s[i]) - ord('a'))
-                ans += bin(mask).count("1")
-
-        return ans
+           
