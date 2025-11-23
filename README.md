@@ -253,6 +253,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annah11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/annah11/leetcode/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1325-path-with-maximum-probability](https://github.com/annah11/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/annah11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -382,6 +383,7 @@
 | [0134-gas-station](https://github.com/annah11/leetcode/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/annah11/A2SV-hub/tree/master/0611-valid-triangle-number) |
 | [1033-broken-calculator](https://github.com/annah11/leetcode/tree/master/1033-broken-calculator) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/annah11/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -407,6 +409,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -516,6 +519,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1236-n-th-tribonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
