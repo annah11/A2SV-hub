@@ -246,6 +246,7 @@
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/annah11/A2SV-hub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/annah11/A2SV-hub/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1032-satisfiability-of-equality-equations](https://github.com/annah11/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
@@ -546,6 +547,7 @@
 | [0461-hamming-distance](https://github.com/annah11/leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/annah11/A2SV-hub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/annah11/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/annah11/A2SV-hub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
