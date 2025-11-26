@@ -286,6 +286,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/annah11/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/annah11/A2SV-hub/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/annah11/A2SV-hub/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-range-product-queries-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/annah11/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -530,6 +531,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/annah11/A2SV-hub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/annah11/A2SV-hub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/annah11/A2SV-hub/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/annah11/A2SV-hub/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -815,6 +817,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/annah11/A2SV-hub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/annah11/A2SV-hub/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/annah11/A2SV-hub/tree/master/2625-increment-submatrices-by-one) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/annah11/A2SV-hub/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
