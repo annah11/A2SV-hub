@@ -619,6 +619,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/annah11/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/annah11/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/annah11/A2SV-hub/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -671,6 +672,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/annah11/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/annah11/A2SV-hub/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
