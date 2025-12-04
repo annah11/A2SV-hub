@@ -141,6 +141,7 @@
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/annah11/A2SV-hub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2211-count-collisions-on-a-road](https://github.com/annah11/A2SV-hub/tree/master/2211-count-collisions-on-a-road) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/annah11/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/annah11/A2SV-hub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/annah11/A2SV-hub/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -170,6 +171,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
+| [2211-count-collisions-on-a-road](https://github.com/annah11/A2SV-hub/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/annah11/A2SV-hub/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/annah11/A2SV-hub/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -182,6 +184,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/annah11/A2SV-hub/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2211-count-collisions-on-a-road](https://github.com/annah11/A2SV-hub/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/annah11/A2SV-hub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/annah11/A2SV-hub/tree/master/2324-find-triangular-sum-of-an-array) |
