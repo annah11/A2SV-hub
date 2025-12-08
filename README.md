@@ -247,6 +247,7 @@
 | [0794-swim-in-rising-water](https://github.com/annah11/A2SV-hub/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/annah11/A2SV-hub/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
+| [0875-koko-eating-bananas](https://github.com/annah11/A2SV-hub/tree/master/0875-koko-eating-bananas) |
 | [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
@@ -516,6 +517,7 @@
 | [0611-valid-triangle-number](https://github.com/annah11/A2SV-hub/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/annah11/A2SV-hub/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/annah11/A2SV-hub/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/annah11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annah11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
