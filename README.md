@@ -332,6 +332,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/annah11/A2SV-hub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/annah11/A2SV-hub/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/annah11/A2SV-hub/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/annah11/A2SV-hub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/annah11/A2SV-hub/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/annah11/A2SV-hub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -583,6 +584,7 @@
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/annah11/A2SV-hub/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/annah11/A2SV-hub/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/annah11/A2SV-hub/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/annah11/A2SV-hub/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/annah11/A2SV-hub/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/annah11/A2SV-hub/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -667,6 +669,7 @@
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/annah11/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/annah11/A2SV-hub/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/annah11/A2SV-hub/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -720,6 +723,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/annah11/A2SV-hub/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/annah11/A2SV-hub/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
