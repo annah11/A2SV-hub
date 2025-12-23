@@ -293,6 +293,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/annah11/A2SV-hub/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/annah11/A2SV-hub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/annah11/A2SV-hub/tree/master/2054-two-best-non-overlapping-events) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/annah11/A2SV-hub/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/annah11/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/annah11/A2SV-hub/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -396,6 +397,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/annah11/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/annah11/A2SV-hub/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/annah11/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/annah11/A2SV-hub/tree/master/2054-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/annah11/A2SV-hub/tree/master/2429-design-a-food-rating-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/annah11/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/annah11/A2SV-hub/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -453,6 +455,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2054-two-best-non-overlapping-events](https://github.com/annah11/A2SV-hub/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/annah11/A2SV-hub/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/annah11/A2SV-hub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -549,6 +552,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/annah11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/annah11/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/annah11/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2054-two-best-non-overlapping-events](https://github.com/annah11/A2SV-hub/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/annah11/A2SV-hub/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/annah11/A2SV-hub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/annah11/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -586,6 +590,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/annah11/A2SV-hub/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/annah11/A2SV-hub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2054-two-best-non-overlapping-events](https://github.com/annah11/A2SV-hub/tree/master/2054-two-best-non-overlapping-events) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/annah11/A2SV-hub/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
