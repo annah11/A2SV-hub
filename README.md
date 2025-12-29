@@ -17,6 +17,7 @@
 | [0690-employee-importance](https://github.com/annah11/leetcode/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -132,6 +133,7 @@
 | [0677-map-sum-pairs](https://github.com/annah11/A2SV-hub/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
@@ -628,6 +630,7 @@
 | [0342-power-of-four](https://github.com/annah11/leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/annah11/leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/annah11/A2SV-hub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
@@ -861,6 +864,7 @@
 | [0093-restore-ip-addresses](https://github.com/annah11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/annah11/leetcode/tree/master/0306-additive-number) |
 | [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
