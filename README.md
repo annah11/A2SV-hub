@@ -18,6 +18,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/annah11/A2SV-hub/tree/master/0840-magic-squares-in-grid) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -259,6 +260,7 @@
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/annah11/A2SV-hub/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/annah11/A2SV-hub/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/annah11/A2SV-hub/tree/master/0840-magic-squares-in-grid) |
 | [0859-design-circular-deque](https://github.com/annah11/leetcode/tree/master/0859-design-circular-deque) |
 | [0875-koko-eating-bananas](https://github.com/annah11/A2SV-hub/tree/master/0875-koko-eating-bananas) |
 | [0881-loud-and-rich](https://github.com/annah11/leetcode/tree/master/0881-loud-and-rich) |
@@ -502,6 +504,7 @@
 | [0486-predict-the-winner](https://github.com/annah11/leetcode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/annah11/A2SV-hub/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/annah11/A2SV-hub/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/annah11/A2SV-hub/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/annah11/A2SV-hub/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/annah11/A2SV-hub/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1013-fibonacci-number) |
@@ -898,6 +901,7 @@
 | [0733-flood-fill](https://github.com/annah11/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/annah11/A2SV-hub/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/annah11/A2SV-hub/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/annah11/A2SV-hub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
