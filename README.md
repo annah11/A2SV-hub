@@ -20,6 +20,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/annah11/A2SV-hub/tree/master/0840-magic-squares-in-grid) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/annah11/A2SV-hub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/annah11/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/annah11/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/annah11/leetcode/tree/master/1039-find-the-town-judge) |
@@ -270,6 +271,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/annah11/A2SV-hub/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/annah11/A2SV-hub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/annah11/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/annah11/A2SV-hub/tree/master/1018-binary-prefix-divisible-by-5) |
