@@ -213,6 +213,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/annah11/A2SV-hub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/annah11/A2SV-hub/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/annah11/A2SV-hub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annah11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/annah11/A2SV-hub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/annah11/A2SV-hub/tree/master/0037-sudoku-solver) |
@@ -557,6 +558,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/annah11/A2SV-hub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annah11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/annah11/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/annah11/leetcode/tree/master/0074-search-a-2d-matrix) |
