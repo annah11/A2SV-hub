@@ -617,6 +617,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/annah11/A2SV-hub/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/annah11/A2SV-hub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/annah11/A2SV-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
