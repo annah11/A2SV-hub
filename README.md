@@ -712,6 +712,7 @@
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/annah11/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/annah11/A2SV-hub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -759,6 +760,7 @@
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/annah11/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/annah11/A2SV-hub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -798,6 +800,7 @@
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/annah11/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/annah11/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/annah11/A2SV-hub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -835,6 +838,7 @@
 | [0960-minimize-malware-spread](https://github.com/annah11/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/annah11/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/annah11/leetcode/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/annah11/A2SV-hub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/annah11/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/annah11/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/annah11/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
