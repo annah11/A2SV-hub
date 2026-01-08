@@ -292,6 +292,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/annah11/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/annah11/A2SV-hub/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-reduce-array-size-to-the-half](https://github.com/annah11/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/annah11/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/annah11/A2SV-hub/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -621,6 +622,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/annah11/A2SV-hub/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/annah11/A2SV-hub/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/annah11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/annah11/A2SV-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/annah11/A2SV-hub/tree/master/1628-count-submatrices-with-all-ones) |
