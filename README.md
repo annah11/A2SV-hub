@@ -173,6 +173,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/annah11/A2SV-hub/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/annah11/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/annah11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/annah11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -227,6 +228,7 @@
 | [0078-subsets](https://github.com/annah11/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/annah11/A2SV-hub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/annah11/A2SV-hub/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/annah11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/annah11/A2SV-hub/tree/master/0120-triangle) |
@@ -388,6 +390,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/annah11/A2SV-hub/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/annah11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/annah11/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -606,6 +609,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/annah11/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/annah11/A2SV-hub/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/annah11/A2SV-hub/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/annah11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/annah11/A2SV-hub/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/annah11/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -926,6 +930,7 @@
 | [0037-sudoku-solver](https://github.com/annah11/A2SV-hub/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/annah11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/annah11/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/annah11/A2SV-hub/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/annah11/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/annah11/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/annah11/A2SV-hub/tree/master/0221-maximal-square) |
