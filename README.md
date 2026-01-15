@@ -343,6 +343,7 @@
 | [2690-house-robber-iv](https://github.com/annah11/leetcode/tree/master/2690-house-robber-iv) |
 | [2737-row-with-maximum-ones](https://github.com/annah11/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/annah11/A2SV-hub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/annah11/A2SV-hub/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/annah11/A2SV-hub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/annah11/A2SV-hub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -494,6 +495,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/annah11/A2SV-hub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/annah11/A2SV-hub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/annah11/A2SV-hub/tree/master/2402-meeting-rooms-iii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/annah11/A2SV-hub/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/annah11/A2SV-hub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/annah11/A2SV-hub/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/annah11/A2SV-hub/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
