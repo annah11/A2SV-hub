@@ -166,6 +166,7 @@
 | [2429-design-a-food-rating-system](https://github.com/annah11/A2SV-hub/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/annah11/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/annah11/A2SV-hub/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/annah11/A2SV-hub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/annah11/A2SV-hub/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/annah11/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/annah11/A2SV-hub/tree/master/3462-vowels-game-in-a-string) |
@@ -355,6 +356,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/annah11/A2SV-hub/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/annah11/A2SV-hub/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/annah11/A2SV-hub/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/annah11/A2SV-hub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/annah11/A2SV-hub/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/annah11/A2SV-hub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/annah11/A2SV-hub/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -676,6 +678,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/annah11/A2SV-hub/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/annah11/A2SV-hub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/annah11/A2SV-hub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/annah11/A2SV-hub/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/annah11/A2SV-hub/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/annah11/A2SV-hub/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1047,6 +1050,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/annah11/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/annah11/A2SV-hub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/annah11/A2SV-hub/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Merge Sort
 |  |
@@ -1178,6 +1182,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/annah11/A2SV-hub/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0677-map-sum-pairs](https://github.com/annah11/A2SV-hub/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/annah11/A2SV-hub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1189,5 +1194,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/annah11/A2SV-hub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/annah11/A2SV-hub/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
