@@ -272,6 +272,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/annah11/leetcode/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/annah11/A2SV-hub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/annah11/A2SV-hub/tree/master/0794-swim-in-rising-water) |
@@ -618,6 +619,7 @@
 | [0456-132-pattern](https://github.com/annah11/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/annah11/leetcode/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/annah11/A2SV-hub/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/annah11/A2SV-hub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/annah11/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/annah11/A2SV-hub/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/annah11/A2SV-hub/tree/master/0875-koko-eating-bananas) |
