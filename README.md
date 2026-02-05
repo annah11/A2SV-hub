@@ -216,6 +216,7 @@
 | [2402-meeting-rooms-iii](https://github.com/annah11/A2SV-hub/tree/master/2402-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/annah11/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/annah11/A2SV-hub/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/annah11/A2SV-hub/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/annah11/A2SV-hub/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/annah11/A2SV-hub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/annah11/A2SV-hub/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -375,6 +376,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/annah11/A2SV-hub/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/annah11/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/annah11/leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3379-transformed-array](https://github.com/annah11/A2SV-hub/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/annah11/A2SV-hub/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/annah11/A2SV-hub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/annah11/A2SV-hub/tree/master/3433-count-mentions-per-user) |
