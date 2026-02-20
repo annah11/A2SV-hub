@@ -143,6 +143,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/annah11/A2SV-hub/tree/master/0761-special-binary-string) |
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/annah11/leetcode/tree/master/0886-score-of-parentheses) |
@@ -523,6 +524,7 @@
 | [0645-set-mismatch](https://github.com/annah11/leetcode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/annah11/A2SV-hub/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/annah11/leetcode/tree/master/0721-accounts-merge) |
+| [0761-special-binary-string](https://github.com/annah11/A2SV-hub/tree/master/0761-special-binary-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/annah11/A2SV-hub/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/annah11/A2SV-hub/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -949,6 +951,7 @@
 | [0148-sort-list](https://github.com/annah11/leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/annah11/leetcode/tree/master/0191-number-of-1-bits) |
 | [0372-super-pow](https://github.com/annah11/A2SV-hub/tree/master/0372-super-pow) |
+| [0761-special-binary-string](https://github.com/annah11/A2SV-hub/tree/master/0761-special-binary-string) |
 | [0772-construct-quad-tree](https://github.com/annah11/leetcode/tree/master/0772-construct-quad-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/annah11/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/annah11/leetcode/tree/master/1873-longest-nice-substring) |
