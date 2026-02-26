@@ -153,6 +153,7 @@
 | [1160-letter-tile-possibilities](https://github.com/annah11/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/annah11/A2SV-hub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/annah11/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/annah11/A2SV-hub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/annah11/A2SV-hub/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/annah11/A2SV-hub/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -207,6 +208,7 @@
 | [0874-backspace-string-compare](https://github.com/annah11/leetcode/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/annah11/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/annah11/A2SV-hub/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/annah11/A2SV-hub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/annah11/A2SV-hub/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/annah11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/annah11/A2SV-hub/tree/master/2211-count-collisions-on-a-road) |
@@ -720,6 +722,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/annah11/A2SV-hub/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/annah11/leetcode/tree/master/0800-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/annah11/A2SV-hub/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/annah11/A2SV-hub/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1418-fair-distribution-of-cookies](https://github.com/annah11/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/annah11/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/annah11/A2SV-hub/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
