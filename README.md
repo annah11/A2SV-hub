@@ -178,6 +178,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/annah11/A2SV-hub/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/annah11/A2SV-hub/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/annah11/A2SV-hub/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/annah11/A2SV-hub/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3797-design-spreadsheet](https://github.com/annah11/A2SV-hub/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/annah11/A2SV-hub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -483,6 +484,7 @@
 | [2429-design-a-food-rating-system](https://github.com/annah11/A2SV-hub/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/annah11/A2SV-hub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/annah11/A2SV-hub/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/annah11/A2SV-hub/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/annah11/A2SV-hub/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/annah11/A2SV-hub/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
@@ -617,6 +619,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/annah11/A2SV-hub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/annah11/A2SV-hub/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/annah11/A2SV-hub/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/annah11/A2SV-hub/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/annah11/A2SV-hub/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/annah11/A2SV-hub/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/annah11/A2SV-hub/tree/master/3830-find-closest-person) |
@@ -937,6 +940,7 @@
 | [2439-longest-cycle-in-a-graph](https://github.com/annah11/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/annah11/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/annah11/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/annah11/A2SV-hub/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/annah11/A2SV-hub/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
@@ -1224,4 +1228,8 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/annah11/A2SV-hub/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/annah11/A2SV-hub/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/annah11/A2SV-hub/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/annah11/A2SV-hub/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
